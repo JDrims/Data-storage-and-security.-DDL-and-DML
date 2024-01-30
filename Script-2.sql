@@ -1,0 +1,1 @@
+select name, surname from persons where upper(city_of_living) = 'MOSCOW'
